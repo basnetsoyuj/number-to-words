@@ -10,4 +10,4 @@ It can convert the numbers till 10 ^ 23 i.e Vigintillion to words.
 
 ## Running as script
 The ```converter.py``` file can be run independently as a script as :-
-<pythonInterpreter> converter.py <INTEGER>
+```<pythonInterpreter> converter.py <INTEGER>```
